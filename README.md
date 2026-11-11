@@ -1,5 +1,5 @@
 A 2D platformer game created by using Unity                                                                                                                                                    
-Here is the link for WebGL version of the game: https://mrtractorwheel.github.io/SuperTyler_WebGL/       
+Here is the link for WebGL version of the game: https://mmertdalkilic.github.io/SuperTyler_WebGL/       
 
 
 For a better game experience;                                                                                                                                                                                                              
